@@ -62,5 +62,3 @@ while True:
     else:
         counter.append(maxspeed)
         print(i , maxspeed)
-        
-#print()
